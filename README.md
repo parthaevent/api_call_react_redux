@@ -32,5 +32,3 @@ To compile all js to dist/app.bundle.js
 ```sh
 $ webpack
 ```
-
-# REACT IS AWSEOME. LEARN REACT AND IF POSSIBLE LEARN VUE.JS ALSO. I AM SURE YOU WILL LIKE BOTH FRAMEWORK :)

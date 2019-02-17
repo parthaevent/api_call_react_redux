@@ -1,4 +1,4 @@
-export default function reducer(state ={
+export default function (state ={
 	users: [],
 	fetching:false,
 	fetched: false,
@@ -9,6 +9,7 @@ export default function reducer(state ={
 			return {...state, fetching: true}
 		}
 		case "FETCH_USERS_FULFILLED":{
+			console.log('kkk');
 			return {...state, fetching: false, fetched: true, users: action.payload}
 		}
 		case "FETCH_USERS_REJECTED":{

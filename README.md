@@ -1,13 +1,4 @@
-# A simple api call intgartion and redux
-
-# It is very helpfull who wants to know about how to call api in react and store that in redux
-
-
-Just a simple example of using Redux and React together. Redux fetches a list of users and passes it to a React component
-
-### Version
-1.0.0
-
+ 
 
 ### Installation
 
